@@ -15,8 +15,8 @@ Install my-project
 
 ```bash
   sudo apt-get install git -y
-  git clone
-  cd 
+  git clone https://github.com/GTSivam/S_S_Finder.git
+  cd S_S_Finder
   chmod 777 install
   chmod 777 run
   sudo ./install
